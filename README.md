@@ -1,5 +1,6 @@
-### Hi there 👋
+## Selam 👋
 
+### Adım:Tolga Uçar
 <!--
 **s0me0ne-coder/s0me0ne-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
